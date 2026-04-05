@@ -2,20 +2,20 @@ Circuit: * C:\Users\Daemon\Documents\GitHub\am-transmitter-0.5W\mini-am-transmit
 
 Per .tran options, skipping operating point for transient analysis.
 
-Date: Sun Apr 05 10:59:20 2026
-Total elapsed time: 21.497 seconds.
+Date: Sun Apr 05 11:29:21 2026
+Total elapsed time: 28.569 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 4289265
-traniter = 4289265
-tranpoints = 1794858
-accept = 1286526
-rejected = 508332
-matrix size = 35
-fillins = 8
+totiter = 4264704
+traniter = 4264704
+tranpoints = 1799857
+accept = 1288692
+rejected = 511165
+matrix size = 36
+fillins = 10
 solver = Normal
-Matrix Compiler1: 3.29 KB object code size  0.7/0.5/[0.2]
-Matrix Compiler2: 3.32 KB object code size  0.3/0.4/[0.2]
+Matrix Compiler1: 3.42 KB object code size  0.6/0.4/[0.2]
+Matrix Compiler2: 3.42 KB object code size  0.3/0.4/[0.2]
 
